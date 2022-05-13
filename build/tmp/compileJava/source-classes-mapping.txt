@@ -1,0 +1,16 @@
+ca/uwaterloo/cs349/View2.java
+ ca.uwaterloo.cs349.View2
+ca/uwaterloo/cs349/SketchIt.java
+ ca.uwaterloo.cs349.SketchIt
+ca/uwaterloo/cs349/View4.java
+ ca.uwaterloo.cs349.View4
+ca/uwaterloo/cs349/Model.java
+ ca.uwaterloo.cs349.Model
+ca/uwaterloo/cs349/View1.java
+ ca.uwaterloo.cs349.View1
+ ca.uwaterloo.cs349.View1$StandardWindow
+ ca.uwaterloo.cs349.View1$diaglogwindow
+ca/uwaterloo/cs349/View3.java
+ ca.uwaterloo.cs349.View3
+ca/uwaterloo/cs349/IView.java
+ ca.uwaterloo.cs349.IView
