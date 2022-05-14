@@ -13,3 +13,5 @@ This is a sketch app fo painting, following functions are supported:
 3. Erase the drawing
 
 4. Select the thickness and color of the line and edge 
+
+5. All shapes can be zoom in or zoom out
