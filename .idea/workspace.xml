@@ -23,11 +23,220 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="205b378d-700a-4e57-828d-a174bc569951" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../a2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../a2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.gradle/6.5/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.gradle/6.5/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.gradle/6.5/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.gradle/6.6.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.gradle/6.6.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.gradle/6.6.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.gradle/6.6.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.gradle/6.6.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.gradle/6.6.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.gradle/6.6.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.gradle/6.6.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.gradle/6.6.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.gradle/6.6.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.gradle/6.6.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.gradle/configuration-cache/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.idea/modules/07a.simple_animation.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.idea/modules/07a.simple_animation.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/build/classes/java/main/ca/uwaterloo/cs349/Snake$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/build/classes/java/main/ca/uwaterloo/cs349/Snake$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/build/classes/java/main/ca/uwaterloo/cs349/Snake$SCENES.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/build/classes/java/main/ca/uwaterloo/cs349/Snake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/build/distributions/Snake-1.0-SNAPSHOT.tar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/build/distributions/Snake-1.0-SNAPSHOT.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/build/libs/Snake-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/build/resources/main/apple.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/build/resources/main/click.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/build/resources/main/down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/build/resources/main/hero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/build/resources/main/left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/build/resources/main/right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/build/resources/main/up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/build/scripts/Snake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/build/scripts/Snake.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/src/main/java/ca/uwaterloo/cs349/Snake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/src/main/resources/apple.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/src/main/resources/click.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/src/main/resources/down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/src/main/resources/hero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/src/main/resources/left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/src/main/resources/right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/src/main/resources/up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/.gradle/6.5/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/.gradle/6.5/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/.gradle/6.5/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build/classes/java/main/ca/uwaterloo/cs349/IView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build/classes/java/main/ca/uwaterloo/cs349/Model.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build/classes/java/main/ca/uwaterloo/cs349/SketchIt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build/classes/java/main/ca/uwaterloo/cs349/View1$StandardWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build/classes/java/main/ca/uwaterloo/cs349/View1$diaglogwindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build/classes/java/main/ca/uwaterloo/cs349/View1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build/classes/java/main/ca/uwaterloo/cs349/View2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build/classes/java/main/ca/uwaterloo/cs349/View3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build/classes/java/main/ca/uwaterloo/cs349/View4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build/resources/main/circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build/resources/main/download.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build/resources/main/fill.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build/resources/main/images.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build/resources/main/line-style.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build/resources/main/line.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build/resources/main/mouse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build/resources/main/rectangle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build/resources/main/rubber.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build/resources/main/scale.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build/resources/main/style1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build/resources/main/style2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build/resources/main/style3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build/resources/main/style4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build/resources/main/thick_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build/resources/main/thick_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build/resources/main/thick_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build/resources/main/thick_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/src/main/ readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/src/main/java/ca/uwaterloo/cs349/IView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/src/main/java/ca/uwaterloo/cs349/Model.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/src/main/java/ca/uwaterloo/cs349/SketchIt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/src/main/java/ca/uwaterloo/cs349/View1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/src/main/java/ca/uwaterloo/cs349/View2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/src/main/java/ca/uwaterloo/cs349/View3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/src/main/java/ca/uwaterloo/cs349/View4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/src/main/resources/circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/src/main/resources/download.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/src/main/resources/fill.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/src/main/resources/images.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/src/main/resources/line-style.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/src/main/resources/line.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/src/main/resources/mouse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/src/main/resources/rectangle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/src/main/resources/rubber.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/src/main/resources/scale.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/src/main/resources/style1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/src/main/resources/style2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/src/main/resources/style3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/src/main/resources/style4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/src/main/resources/thick_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/src/main/resources/thick_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/src/main/resources/thick_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/src/main/resources/thick_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/src/main/java/ca/uwaterloo/cs349/pdfreader/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/src/main/java/ca/uwaterloo/cs349/pdfreader/PDFimage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/src/main/res/drawable/ic_channel_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/src/main/res/mipmap-anydpi-v26/ic_channel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/src/main/res/mipmap-xhdpi/ic_channel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/src/main/res/mipmap-xhdpi/ic_channel_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/src/main/res/raw/sample.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ca/uwaterloo/cs349/HelloMVC3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ca/uwaterloo/cs349/SketchIt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,18 +259,7 @@
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="03.hellomvc" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="03.hellomvc" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="03.hellomvc" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="application" type="c8890929:TasksNode$1" />
+                <item name="03.SketchIt" type="f1a62948:ProjectNode" />
               </path>
             </expand>
             <select />
@@ -78,7 +276,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1k4zlFNVfpVAIcOTCudqtzqm5Qh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -88,7 +286,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/samples/01.Intro/07.save_load_data" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
@@ -142,43 +340,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="743" y="414" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1605060302545">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1652486537865">
+      <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="743" y="414" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1605060302545" />
-    <state x="580" y="254" key="FileChooserDialogImpl" timestamp="1605149977837">
-      <screen x="0" y="0" width="1504" height="963" />
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1652486537865" />
+    <state width="1877" height="261" key="GridCell.Tab.0.center" timestamp="1652486537864">
+      <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="580" y="254" key="FileChooserDialogImpl/0.0.1504.963@0.0.1504.963" timestamp="1605149977837" />
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605104767855" />
-    <state width="1877" height="264" key="GridCell.Tab.0.bottom" timestamp="1605299426858">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="261" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1652486537864" />
+    <state width="1877" height="261" key="GridCell.Tab.0.left" timestamp="1652486537863">
+      <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1461" height="213" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1605247663183" />
-    <state width="1877" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605299426858" />
-    <state width="1877" height="264" key="GridCell.Tab.0.center" timestamp="1605299426858">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="261" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1652486537863" />
+    <state width="1877" height="261" key="GridCell.Tab.0.right" timestamp="1652486537865">
+      <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1461" height="213" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1605247663181" />
-    <state width="1877" height="264" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605299426858" />
-    <state width="1877" height="264" key="GridCell.Tab.0.left" timestamp="1605299426858">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1461" height="213" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1605247663181" />
-    <state width="1877" height="264" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605299426858" />
-    <state width="1877" height="264" key="GridCell.Tab.0.right" timestamp="1605299426858">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1461" height="213" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1605247663182" />
-    <state width="1877" height="264" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605299426858" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1605294880427">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605294880427" />
-    <state x="488" y="208" width="672" height="628" key="search.everywhere.popup" timestamp="1605247611399">
-      <screen x="0" y="0" width="1504" height="963" />
-    </state>
-    <state x="488" y="208" width="672" height="628" key="search.everywhere.popup/0.0.1504.963@0.0.1504.963" timestamp="1605247611399" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605075563671" />
+    <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1652486537865" />
   </component>
 </project>
