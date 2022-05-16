@@ -29,3 +29,6 @@ Functions:
 * OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.8+10, mixed mode)
 
 * This is a sketch app fo painting, following functions are supported:
+
+
+  <p align="right">(<a href="#top">back to top</a>)</p>
