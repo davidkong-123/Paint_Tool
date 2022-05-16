@@ -13,8 +13,14 @@ Functions:
 
 5. All shapes can be zoom in or zoom out
 
+### Demo
+
+![Screenshot 2022-05-16 003803](https://user-images.githubusercontent.com/57188393/168520766-ddc02a0f-fa41-4354-8be2-afa57b1e93c9.jpg)
+
 
 ### Built With
+
+* Java
 
 * openjdk version "11.0.8" 2020-07-14
 
